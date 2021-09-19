@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding-left: 35px; 
+    padding-right: 35px; 
+    padding-top: 55px; 
+    padding-bottom: 55px; 
+ } 
+ .side{
+    text-align: right;
+    padding-right: 18px;
+    padding-top: 140px;
+     padding-bottom: 90px;
+    width: 13%;
+    background-color: lightpink;
+    color: white; 
+    display: inline;
+     align-items: right;
+    } 
+    span{
+    padding: 0%; }
+    section{
+    display: flex;
+    height: 100%;
+    padding: auto; }
+    button{
+    margin: 0%;
+    background-color: teal;
+     padding: 4px;
+    color: white;
+    } 
+    .one{
+    border: 2px solid white; 
+    background-color: rgb(201, 93, 192); 
+    color: white;
+    margin: 0px;
+    padding-right: 10px; 
+    padding-left: 10px;
+    } .green{
+    background-color: green; 
+    padding-top: 0;
+        padding-bottom: 0;
+     } 
+     .blue{
+    background-color: skyblue;
+     padding-top: 0;
+      padding-bottom: 0;
+    } 
+    .red{
+    background-color: red;
+     padding-top: 0;
+      padding-bottom: 0;
+     }
+    .highlight{
+    color: skyblue;
+    }
+    .post{
+    padding: 0%;
+    width: 60%;
+     display: inline;
+    } hr,h2,h3{
+    padding: 6px; }
+    h3{
+    color: rgba(255, 255, 255, 0.541); 
+    font-weight: lighter;
+    } h1{
+    font-weight: bolder ;
+    padding-right: 6px;
+     padding-top: 10px; 
+     padding-right: 0px;
+      padding-bottom: 0px;
+    }
+     p{font-size: 13px; 
+      padding-right: 10px; 
+      padding-top: 5px; 
+      padding-bottom: 0;
+    }
+    .pinned , .recent{
+    padding-top: 8px;
+     padding-bottom: 0%; 
+     padding-left: 0%; 
+     padding-right: 0%;
+    font-size: 13px; 
+    padding-right: 10px; 
+    padding-top: 5px; 
+    padding-bottom: 0;
+     
+    height: 50%;
+    } img{
+    display: flex; 
+    float: right;
+     border-radius: 200%; 
+     margin: 0%;
+    padding: 0%;
+    width: 40px; }
